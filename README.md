@@ -25,8 +25,6 @@ The To-Do App is a simple and intuitive application designed to help users manag
 > Click "Update" to save your changes.
 - Deleting a Task
 > Click the delete icon next to the task you want to remove.
-- Confirm the deletion in the prompt.
-- Searching and Filtering Tasks
-- Use the search bar to find tasks by title or description.
-- Use the filter options to sort tasks by category, due date, or priority.
+> Confirm the deletion in the prompt.
+
 
