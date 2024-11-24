@@ -1,5 +1,7 @@
 To-Do App
+
 Overview
+
 The To-Do App is a simple and intuitive application designed to help users manage their tasks efficiently. Whether you need to organize your daily activities, keep track of project milestones, or simply create a shopping list, the To-Do App offers a user-friendly interface and robust functionality to meet your needs.
 
 ![Screenshot 2024-11-09 143550](https://github.com/user-attachments/assets/fa9e0e4e-247d-4e20-8770-2f52f2fe7829)
